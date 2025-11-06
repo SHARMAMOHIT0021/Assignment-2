@@ -1,2 +1,4 @@
 # Assignment-2
-This file contains both the tasks of assignment 1 and assignment 2.
+This file contains both the tasks of Task 1 and task 2 of the assignment no.2.
+<br>
+Task 1 contains the code to check if a number is odd or even.
